@@ -1,0 +1,14 @@
+
+.image{
+    background-image: url("Autumn_Rocky_Mountain_Maple_Leaf.jpeg");
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position:center;
+   border: solid 1px black;
+}
+h3{
+    color: yellow;
+    background-color: blueviolet;
+    text-align: center;
+    text-transform: capitalize;
+}
